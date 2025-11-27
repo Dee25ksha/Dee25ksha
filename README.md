@@ -68,8 +68,8 @@ Currently exploring **LLMs, RAG Systems, Classic ML, AI Workflows**, and improvi
 
 ## 🌐 Connect With Me  
 
-📧 Email: your-email@gmail.com <br>
-🔗 LinkedIn: https://www.linkedin.com/in/your-profile <br>
+📧 Email: deekshagautam2510@gmail.com <br>
+🔗 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/deeksha-%E2%80%8E-23a320297/) <br>
 ✨ Looking forward to collaborating, learning, and growing in the AI/ML space!
 
 
