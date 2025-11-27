@@ -1,4 +1,4 @@
-# 🌼 Hi, I'm Deeksha!  
+# Hi, I'm Deeksha!  
 ### B.Tech CSE (AI & ML) | Aspiring AI Engineer | ML Enthusiast
 
 > **"Your future is created by what you do today, not tomorrow."**
