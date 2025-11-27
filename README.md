@@ -1,6 +1,8 @@
 # Hi, I'm Deeksha 👋
 ### B.Tech CSE (AI & ML) | Future AI Engineer | ML & Data Science Enthusiast
 
+###“The best way to predict the future is to create it.”
+
 🌟 Passionate about Machine Learning, AI systems, Data Structures, and building real-world projects.  
 💻 Currently learning: Classic ML, Prompt Engineering, LLMs, RAG, AI workflows, and Production AI.  
 📚 Tech I work with: Python, C++, Java, SQL, HTML/CSS, ML, DL, NLP, Data Analysis.
